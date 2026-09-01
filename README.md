@@ -29,4 +29,5 @@ console.log("Hello GitHub!");
 **Masih dalam pengembangan 🚧**
 
 # Hubungi Saya
-[📩Email pribadi](Raffafillie@gmail.com)
+[📩business Email](Raffafillie@gmail.com)
+
