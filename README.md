@@ -1,4 +1,4 @@
-# 🚀 Project Pertama Saya
+# 🚀 Fillie personal zone
 
 Halo! Saya sedang belajar programming.
 
@@ -10,7 +10,6 @@ Project ini dibuat untuk belajar HTML, CSS, dan JavaScript.
 
 - HTML
 - CSS
-- JavaScript
 
 ## 📌 Fitur
 
@@ -29,4 +28,5 @@ console.log("Hello GitHub!");
 
 **Masih dalam pengembangan 🚧**
 
-> Dibuat sambil belajar coding.
+# Hubungi Saya
+[📩Email pribadi](Raffafillie@gmail.com)
