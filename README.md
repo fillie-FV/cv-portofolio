@@ -1,2 +1,2 @@
 ## portofolio
-~~project selesai~~
+> project selesai,
